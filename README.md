@@ -1,3 +1,3 @@
 # UI BASED GLASSMORPHISM EFFECT WEBSITE
 
-https://ab-ui-glassmorphism.netlify.app
+[Live Demo](https://glassmorphism.ashishbhatia.dev/)
